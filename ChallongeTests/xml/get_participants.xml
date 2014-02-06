@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<participants type="array">
+  <participant>
+    <active type="boolean">true</active>
+    <checked-in type="boolean">false</checked-in>
+    <created-at type="datetime">2013-12-14T16:46:14-05:00</created-at>
+    <final-rank type="integer" nil="true"/>
+    <group-id type="integer" nil="true"/>
+    <icon nil="true"/>
+    <id type="integer">11249557</id>
+    <invitation-id type="integer" nil="true"/>
+    <invite-email nil="true"/>
+    <misc nil="true"/>
+    <name>zbilbo</name>
+    <on-waiting-list type="boolean">false</on-waiting-list>
+    <seed type="integer">1</seed>
+    <tournament-id type="integer">736345</tournament-id>
+    <updated-at type="datetime">2013-12-14T16:46:14-05:00</updated-at>
+    <challonge-username nil="true"/>
+    <challonge-email-address-verified nil="true"/>
+  </participant>
+  <participant>
+    <active type="boolean">true</active>
+    <checked-in type="boolean">false</checked-in>
+    <created-at type="datetime">2013-12-14T16:49:25-05:00</created-at>
+    <final-rank type="integer" nil="true"/>
+    <group-id type="integer" nil="true"/>
+    <icon nil="true"/>
+    <id type="integer">11249871</id>
+    <invitation-id type="integer" nil="true"/>
+    <invite-email nil="true"/>
+    <misc nil="true"/>
+    <name>pck</name>
+    <on-waiting-list type="boolean">false</on-waiting-list>
+    <seed type="integer">2</seed>
+    <tournament-id type="integer">736345</tournament-id>
+    <updated-at type="datetime">2013-12-14T16:49:25-05:00</updated-at>
+    <challonge-username nil="true"/>
+    <challonge-email-address-verified nil="true"/>
+  </participant>
+  <participant>
+    <active type="boolean">true</active>
+    <checked-in type="boolean">false</checked-in>
+    <created-at type="datetime">2013-12-14T16:49:34-05:00</created-at>
+    <final-rank type="integer" nil="true"/>
+    <group-id type="integer" nil="true"/>
+    <icon nil="true"/>
+    <id type="integer">11249876</id>
+    <invitation-id type="integer" nil="true"/>
+    <invite-email nil="true"/>
+    <misc nil="true"/>
+    <name>Zorba</name>
+    <on-waiting-list type="boolean">false</on-waiting-list>
+    <seed type="integer">3</seed>
+    <tournament-id type="integer">736345</tournament-id>
+    <updated-at type="datetime">2013-12-14T16:49:34-05:00</updated-at>
+    <challonge-username nil="true"/>
+    <challonge-email-address-verified nil="true"/>
+  </participant>
+  <participant>
+    <active type="boolean">true</active>
+    <checked-in type="boolean">false</checked-in>
+    <created-at type="datetime">2013-12-14T16:52:23-05:00</created-at>
+    <final-rank type="integer" nil="true"/>
+    <group-id type="integer" nil="true"/>
+    <icon nil="true"/>
+    <id type="integer">11249966</id>
+    <invitation-id type="integer" nil="true"/>
+    <invite-email nil="true"/>
+    <misc nil="true"/>
+    <name>Amy</name>
+    <on-waiting-list type="boolean">false</on-waiting-list>
+    <seed type="integer">4</seed>
+    <tournament-id type="integer">736345</tournament-id>
+    <updated-at type="datetime">2013-12-14T16:52:23-05:00</updated-at>
+    <challonge-username nil="true"/>
+    <challonge-email-address-verified nil="true"/>
+  </participant>
+  <participant>
+    <active type="boolean">true</active>
+    <checked-in type="boolean">false</checked-in>
+    <created-at type="datetime">2013-12-14T17:07:13-05:00</created-at>
+    <final-rank type="integer" nil="true"/>
+    <group-id type="integer" nil="true"/>
+    <icon nil="true"/>
+    <id type="integer">11250276</id>
+    <invitation-id type="integer" nil="true"/>
+    <invite-email nil="true"/>
+    <misc nil="true"/>
+    <name>hannes</name>
+    <on-waiting-list type="boolean">false</on-waiting-list>
+    <seed type="integer">5</seed>
+    <tournament-id type="integer">736345</tournament-id>
+    <updated-at type="datetime">2013-12-14T17:07:13-05:00</updated-at>
+    <challonge-username nil="true"/>
+    <challonge-email-address-verified nil="true"/>
+  </participant>
+</participants>
